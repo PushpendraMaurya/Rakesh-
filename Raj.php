@@ -32,7 +32,11 @@
     <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
       <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Button
         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24" src="www.google.com>
+<<<<<<< HEAD
           <path d="M5 12h14M12 5l7 7-7 7"</path>
+=======
+          <path d="M5 12h14M12 5l7 7-7 7"></path>
+>>>>>>> edbd06b926d92f9b12d919269d20eab9f162d773
         </svg>
       </button>
     </div>
@@ -63,14 +67,23 @@
 <section class="text-gray-600 body-font relative">
   <div class="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
     <div class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
+<<<<<<< HEAD
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7191.362187973096!2d82.64388033951332!3d25.68186418200747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39903ca656acdec3%3A0xd55ade75e62ae086!2sGahora%2C%20Uttar%20Pradesh%20222105!5e0!3m2!1sen!2sin!4v1613115908670!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+=======
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1797.6961474896918!2d82.63914767587588!3d25.691432312949374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39903c988a77d607%3A0xf6403cad7d3e2d57!2sPachokhar%2C%20Uttar%20Pradesh%20222105!5e0!3m2!1sen!2sin!4v1613115114962!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+>>>>>>> edbd06b926d92f9b12d919269d20eab9f162d773
       <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
         <div class="lg:w-1/2 px-6">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
           <p class="mt-1">Gahora Ramdayal ganj jaunpur</p>
         </div>
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
+<<<<<<< HEAD
         
+=======
+          <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
+          <a class="text-indigo-500 leading-relaxed">rakeshnishadjnp700@gmail.com</a>
+>>>>>>> edbd06b926d92f9b12d919269d20eab9f162d773
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
           <p class="leading-relaxed">7800872800</p>
         </div>
